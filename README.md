@@ -1,8 +1,8 @@
-# Title of your paper
+# Multiscale and integrative single-cell Hi-C analysis with Higashi
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
+* 何彥南 (yen-nan ho), 110753202
+* 張修誠,	110753165
+* 陳偉瑄, 
 * ...
 
 ### Demo 
