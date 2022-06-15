@@ -40,8 +40,8 @@ Each non-zero element in the single-cell contact map is modeled as a hyper-edge 
 
 ### results
 * Which part of the paper do you reproduce?
-![](result/ouptut1.png)
-![](result/ouptut2.png)
+![](results/output1.png)
+![](results/output3.png)
 * Any improvement or change by your package?
 
 ## References
