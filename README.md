@@ -6,8 +6,9 @@
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis  
-We reproduce example in Google Colaboratory(Colab), so you download the ipython file and run all.
-```Python scripr in the ipython
+We reproduce example in Google Colaboratory(Colab), so you download the ipython file and run all.  
+Python scrip in the ipython:
+```
 !python runincolab.py
 ```
 
