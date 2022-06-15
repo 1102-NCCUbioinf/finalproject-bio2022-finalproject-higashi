@@ -6,8 +6,9 @@
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+We reproduce example in Google Colaboratory(Colab), so you download the ipython file and run all.
+```Python scripr in the ipython
+!python runincolab.py
 ```
 
 ## Folder organization and its related information
