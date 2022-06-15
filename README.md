@@ -25,7 +25,11 @@ Python script in the ipython:
   - [hg19.chrom.sizes.txt](https://github.com/biogo/biogo/blob/master/feat/genome/human/hg19/hg19_cytoBand.txt.gz)
   - [cytoBand_hg19.txt](https://www.bing.com/ck/a?!&&p=fb88d8adf2973b1d62f106a27de877b200fdee63a71bf0e78df82dad6bed0851JmltdHM9MTY1NTMxNjI5NCZpZ3VpZD1iYTViYTc2OS1iMmY5LTQ4NDQtOWU0Zi0yOTlmNzM2MzZjYzcmaW5zaWQ9NTE0Mg&ptn=3&fclid=a8a23e00-ecd5-11ec-8568-8a03c052f1f3&u=a1aHR0cHM6Ly9oZ2Rvd25sb2FkLmNzZS51Y3NjLmVkdS9nb2xkZW5wYXRoL2hnMTkvZGF0YWJhc2UvY3l0b0JhbmQudHh0Lmd6&ntb=1)
 - Format
+  -"higashi_v1" format (https://github.com/ma-compbio/Higashi/wiki/Input-Files)
 - Size
+  -4.4G
+  -2KB 
+  -31KB 
 
 ### code
 * Which packages do you use? 
