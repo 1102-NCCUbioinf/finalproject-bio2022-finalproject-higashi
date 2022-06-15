@@ -1,7 +1,7 @@
 # Multiscale and integrative single-cell Hi-C analysis with Higashi
 ### Members
 * 何彥南 (yen-nan ho), 110753202
-* 張修誠,	110753165
+* 張修誠 (Xiu-Cheng Chang),	110753165
 * 陳偉瑄 (Wayne Chen), 110971020
 
 ### Demo 
