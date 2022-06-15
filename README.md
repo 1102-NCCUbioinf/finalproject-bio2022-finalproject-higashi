@@ -3,7 +3,6 @@
 * 何彥南 (yen-nan ho), 110753202
 * 張修誠,	110753165
 * 陳偉瑄, 
-* ...
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis
