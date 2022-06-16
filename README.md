@@ -49,5 +49,14 @@ Each non-zero element in the single-cell contact map is modeled as a hyper-edge 
 * Any improvement or change by your package?
  No, but from our results,  `k-neighbour` in higashi  is not make any difference
 ## References
-* Packages you use
+* [ma-compbio/Higashi: single-cell Hi-C, scHi-C, Hi-C, 3D genome, nuclear organization, hypergraph (github.com)](https://github.com/ma-compbio/Higashi#:~:text=As%20a%20computational%20framework%20for%20scHi-C%20analysis%2C%20Higashi,the%20cell%20node%20and%20the%20genomic%20bin%20node.)
 * Related publications
+ ```
+@article {Zhang2020multiscale,
+	author = {Zhang, Ruochi and Zhou, Tianming and Ma, Jian},
+	title = {Multiscale and integrative single-cell Hi-C analysis with Higashi},
+	year={2021},
+	publisher = {Nature Publishing Group},
+	journal = {Nature biotechnology}
+}
+```
