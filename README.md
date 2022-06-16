@@ -43,10 +43,12 @@ Each non-zero element in the single-cell contact map is modeled as a hyper-edge 
   - **step5**: With several new computational strategies, we reliably compare A/B compartment scores and TAD-like domain boundaries across individual cells to promote the analysis of cell-to-cell variability of these large-scale 3D genome features and its implication in gene transcription. 
 
 ### results
-* Which part of the paper do you reproduce?
+#### Which part of the paper do you reproduce?
+##### embedding + PCA/UMAP
 ![](results/output1.png)
+##### impution
 ![](results/output3.png)
-* Any improvement or change by your package?
+#### Any improvement or change by your package?
  No, but from our results,  `k-neighbour` in higashi  is not make any difference
 ## References
 * [ma-compbio/Higashi: single-cell Hi-C, scHi-C, Hi-C, 3D genome, nuclear organization, hypergraph (github.com)](https://github.com/ma-compbio/Higashi#:~:text=As%20a%20computational%20framework%20for%20scHi-C%20analysis%2C%20Higashi,the%20cell%20node%20and%20the%20genomic%20bin%20node.)
