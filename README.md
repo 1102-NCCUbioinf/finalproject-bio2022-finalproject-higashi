@@ -46,7 +46,7 @@ Each non-zero element in the single-cell contact map is modeled as a hyper-edge 
 #### Which part of the paper do you reproduce?
 ##### embedding + PCA/UMAP
 ![](results/output1.png)
-##### impution
+##### imputation
 ![](results/output3.png)
 #### Any improvement or change by your package?
  No, but from our results,  `k-neighbour` in higashi  is not make any difference
